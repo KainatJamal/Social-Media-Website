@@ -1,4 +1,4 @@
-# Social Media Website - README
+# Social Media Website
 
 ## Overview
 This project is a basic social media application built using **Express.js**, **MongoDB**, **JWT**, and **React.js**. The app allows users to sign up, log in, post content, like posts, and follow trending hashtags.
